@@ -130,3 +130,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# own directories/files
+/gpt_output
+openai_api_key.txt
