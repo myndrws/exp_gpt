@@ -1,0 +1,8 @@
+Make up a very long patient history in the style of a UK NHS doctor.
+
+Use patient details:
+sex: female, age: 87, current symptoms: back pain, dizziness
+
+Include full medical history including allergies, incidents, previous visits, changes to conditions.
+
+Make the patient history convoluted and detailed. It should be a very long patient history.

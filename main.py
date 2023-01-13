@@ -48,5 +48,5 @@ def read_in_prompt_return_outputs(input_directory: str,
 if __name__ == "__main__":
     mod_response = read_in_prompt_return_outputs(input_directory="prompt_material",
                                                  output_directory="gpt_output",
-                                                 input_txt_file_name="patient_history_creation_prompt_v3.txt",
+                                                 input_txt_file_name="patient_history_creation_prompt_v4.txt",
                                                  temp=0.8)
