@@ -1,0 +1,5 @@
+Make up a very long patient history in the style of a UK NHS doctor.
+This is for a patient that is female and 87 years old and is now complaining of lower back pain and dizziness.
+This patient history needs to include full medical history including allergies and incidents and previous visits.
+It should also include any changes to conditions over the patient's lifetime.
+Make the patient history convoluted and detailed and sometimes difficult to understand.
