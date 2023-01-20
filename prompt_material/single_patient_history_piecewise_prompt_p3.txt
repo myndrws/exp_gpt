@@ -1,0 +1,9 @@
+Make up referral notes from medical follow up tests for the patient below. The notes should be long and messy.
+
+Use patient details:
+name: Mr. F.
+sex: male
+age: 45
+current symptoms: chest pain, shortness of breath.
+Previous appointment: Patient was asked how often he was drinking and if he smoked and reported that he did not. He was also asked whether there were any additional changes in his lifestyle since his last visit and reported that there were no additional changes.
+Vital signs monitored, chest examined, and antibiotics prescribed for cough. 

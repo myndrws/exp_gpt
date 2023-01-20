@@ -1,0 +1,7 @@
+Make up echocardiogram and pulmonary function test diagnosis and treatment notes for this patient.
+
+Use patient details:
+name: Mr. F.
+sex: male
+age: 45
+current symptoms: chest pain, shortness of breath.

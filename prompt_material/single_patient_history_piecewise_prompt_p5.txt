@@ -1,0 +1,11 @@
+Make up a convoluted and detailed patient history 
+
+
+Use patient details:
+name: Mr. F.
+sex: male
+age: 61
+current symptoms: wheezing cough, loss of weight, shortness of breath. 
+previous history: prescribed ACE inhibitors to improve left ventricular function and reduce aortic regurgitation, as well as bronchodilators to improve pulmonary function. Advised to adopt a healthy lifestyle.
+
+Include full medical history including allergies, incidents, previous visits, changes to conditions.

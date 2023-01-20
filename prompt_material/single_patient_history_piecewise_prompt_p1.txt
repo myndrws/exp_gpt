@@ -1,0 +1,19 @@
+Make up a long and messy page of notes from a patient appointment in the style of an NHS nurse.
+
+Use patient details:
+name: Mr. F.
+sex: male
+age: 28
+symptoms: cough, vertigo, weight loss.
+
+Include things like: 
+Full medical history.
+Treatments.
+Allergies.
+Incidents.
+Lifestyle.
+Previous visits.
+Changes to conditions.
+Other details like home life.
+
+The notes should be unstructured.
