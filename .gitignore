@@ -132,5 +132,5 @@ dmypy.json
 .pyre/
 
 # own directories/files
-/gpt_output
 openai_api_key.txt
+*.pkl
